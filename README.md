@@ -9,7 +9,8 @@ Helping ICON SCORE develope. SCORE can be developed and easily deployed on the I
 ## Requirements
 PyCharm version 2019.1+
 
-## Install from [build package v0.1](https://github.com/signal9dev/icon-pycharm-plugin/distributions/ICON%20SCORE%20Support-0.1-SNAPSHOT.zip)
+## Install from [build package v0.1](https://github.com/signal9dev/icon-pycharm-plugin/raw/master/distributions/ICON%20SCORE%20Support-0.1-SNAPSHOT.zip)
+
 ![install](https://github.com/signal9dev/icon-pycharm-plugin/blob/master/images/install_from_disk.gif?raw=true)
 
 
