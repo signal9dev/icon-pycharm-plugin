@@ -4,7 +4,7 @@
 
 ## Features
 A PyCharm extension to develope ICON SCORE.
-Helping ICON SCORE develope. SCORE can be developed and easily deployed on the ICON network. We plan to offer more features in the future.
+Helping ICON SCORE developement. SCORE can be developed and easily deployed on the ICON network. We plan to offer more features in the future.
 
 ## Requirements
 PyCharm version 2019.1+
