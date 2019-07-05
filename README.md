@@ -11,13 +11,13 @@ PyCharm version 2019.1+
 
 ## Install from [build package v0.1](https://github.com/signal9dev/icon-pycharm-plugin/raw/master/distributions/ICON%20SCORE%20Support-0.1-SNAPSHOT.zip)
 
-![install](https://github.com/signal9dev/icon-pycharm-plugin/blob/master/images/install_from_disk.gif?raw=true)
+![install](https://github.com/signal9dev/icon-pycharm-plugin/blob/master/images/installDemo.gif?raw=true)
 
 
 ## Demo
 ### Deploy to ICON network
 
-![Demo1](https://github.com/signal9dev/icon-pycharm-plugin/blob/master/images/demo1.gif?raw=true)
+![Demo1](https://github.com/signal9dev/icon-pycharm-plugin/blob/master/images/settingDemo.gif?raw=true)
 
 ### For more information
 
