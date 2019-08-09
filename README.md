@@ -15,9 +15,14 @@ PyCharm version 2019.1+
 
 
 ## Demo
-### Deploy to ICON network
+### Setting preference
+![Demo1](https://github.com/signal9dev/icon-pycharm-plugin/blob/master/images/preferenceSettingDemo_v1.1.gif?raw=true)
 
-![Demo1](https://github.com/signal9dev/icon-pycharm-plugin/blob/master/images/settingDemo.gif?raw=true)
+### Deploy to ICON network
+![Demo1](https://github.com/signal9dev/icon-pycharm-plugin/blob/master/images/deployDemo_v1.1.gif?raw=true)
+
+### Sending transaction
+![Demo1](https://github.com/signal9dev/icon-pycharm-plugin/blob/master/images/sendTrxDemo_v1.1.gif?raw=true)
 
 ### For more information
 
